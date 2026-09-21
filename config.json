@@ -1,0 +1,12 @@
+{
+  "program": "MERIDIAN M-27",
+  "start": "2026-04-06",
+  "status": "2026-09-18",
+  "deadline": "2027-08-26",
+  "seed": 27,
+  "trials": 5000,
+  "high_duration": 44,
+  "high_float": 44,
+  "near_critical": 10,
+  "calendar": "Monday-Friday, 8h/day, no holidays, exclusive finish"
+}

@@ -1,0 +1,6 @@
+change_id,timestamp,actor,from_status,to_status,comment
+CR-001,2026-08-24T09:00:00,Program manager,Draft,Submitted,Expanded telemetry interface verification
+CR-001,2026-08-28T15:00:00,Fictional change control board,Submitted,Approved,Forecast update only. Original baseline remains frozen.
+CR-002,2026-09-14T09:00:00,Test lead,Draft,Submitted,Additional environmental screening
+CR-003,2026-09-10T09:00:00,Program manager,Draft,Submitted,Request to move acceptance commitment
+CR-003,2026-09-17T15:00:00,Fictional change control board,Submitted,Rejected,Forecast update only. Original baseline remains frozen.

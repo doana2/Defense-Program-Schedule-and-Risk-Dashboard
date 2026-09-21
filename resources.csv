@@ -1,0 +1,7 @@
+resource_id,name,capacity_fte
+R01,Design engineering team,1.5
+R02,Software team,1.5
+R03,Logistics team,2.0
+R04,Test team,1.5
+R05,Delivery team,2.0
+R06,Quality review team,1.0

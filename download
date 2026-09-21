@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.egg-info/
+.DS_Store
+.pytest_cache/
+node_modules/
+.codex-finalizer/
+*.inspect.ndjson

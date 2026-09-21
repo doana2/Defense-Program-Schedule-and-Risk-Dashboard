@@ -1,0 +1,4 @@
+change_id,task_id,field,old_value,new_value,status,requested,decided,owner,reason,applied
+CR-001,T058,duration,16,40,Approved,2026-08-24,2026-08-28,Program manager,Expanded telemetry interface verification,True
+CR-002,T097,duration,8,13,Pending,2026-09-14,,Test lead,Additional environmental screening,False
+CR-003,T152,deadline,2027-08-26,2027-09-23,Rejected,2026-09-10,2026-09-17,Program manager,Request to move acceptance commitment,False

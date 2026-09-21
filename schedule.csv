@@ -1,0 +1,153 @@
+id,wbs,name,phase,work_package,duration,remaining,percent_complete,actual_start,actual_finish,constraint,constraint_date,notes,low_factor,high_factor,baseline_start,baseline_finish,current_start,current_finish
+T001,0,Program authorization,Program,Authorization,0,0,100,2026-04-06,2026-04-06,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-06,2026-04-06,2026-04-06,2026-04-06
+T002,1.1.1,Airframe definition: Define requirements,Engineering,Airframe definition,10,0,100,2026-04-06,2026-04-20,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-06,2026-04-20,2026-04-06,2026-04-20
+T003,1.1.2,Airframe definition: Develop design,Engineering,Airframe definition,16,0,100,2026-04-08,2026-04-30,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-08,2026-04-30,2026-04-08,2026-04-30
+T004,1.1.3,Airframe definition: Review analysis,Engineering,Airframe definition,12,0,100,2026-04-30,2026-05-18,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-30,2026-05-18,2026-04-30,2026-05-18
+T005,1.1.4,Airframe definition: Resolve findings,Engineering,Airframe definition,9,0,100,2026-05-18,2026-05-29,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-18,2026-05-29,2026-05-18,2026-05-29
+T006,1.1.5,Airframe definition: Approval gate,Engineering,Airframe definition,0,0,100,2026-05-29,2026-05-29,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-29,2026-05-29,2026-05-29,2026-05-29
+T007,1.2.1,Power and thermal: Define requirements,Engineering,Power and thermal,8,0,100,2026-04-06,2026-04-16,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-06,2026-04-16,2026-04-06,2026-04-16
+T008,1.2.2,Power and thermal: Develop design,Engineering,Power and thermal,14,0,100,2026-04-08,2026-04-28,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-08,2026-04-28,2026-04-08,2026-04-28
+T009,1.2.3,Power and thermal: Review analysis,Engineering,Power and thermal,10,0,100,2026-04-28,2026-05-12,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-28,2026-05-12,2026-04-28,2026-05-12
+T010,1.2.4,Power and thermal: Resolve findings,Engineering,Power and thermal,7,0,100,2026-05-12,2026-05-21,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-12,2026-05-21,2026-05-12,2026-05-21
+T011,1.2.5,Power and thermal: Approval gate,Engineering,Power and thermal,0,0,100,2026-05-21,2026-05-21,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-21,2026-05-21,2026-05-21,2026-05-21
+T012,1.3.1,Avionics architecture: Define requirements,Engineering,Avionics architecture,9,0,100,2026-05-29,2026-06-11,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-29,2026-06-11,2026-05-29,2026-06-11
+T013,1.3.2,Avionics architecture: Develop design,Engineering,Avionics architecture,15,0,100,2026-06-02,2026-06-23,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-02,2026-06-23,2026-06-02,2026-06-23
+T014,1.3.3,Avionics architecture: Review analysis,Engineering,Avionics architecture,11,0,100,2026-06-23,2026-07-08,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-23,2026-07-08,2026-06-23,2026-07-08
+T015,1.3.4,Avionics architecture: Resolve findings,Engineering,Avionics architecture,8,0,100,2026-07-08,2026-07-20,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-08,2026-07-20,2026-07-08,2026-07-20
+T016,1.3.5,Avionics architecture: Approval gate,Engineering,Avionics architecture,0,0,100,2026-07-20,2026-07-20,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-20,2026-07-20,2026-07-20,2026-07-20
+T017,1.4.1,Structural substantiation: Define requirements,Engineering,Structural substantiation,10,0,100,2026-05-21,2026-06-04,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-21,2026-06-04,2026-05-21,2026-06-04
+T018,1.4.2,Structural substantiation: Develop design,Engineering,Structural substantiation,16,0,100,2026-05-25,2026-06-16,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-25,2026-06-16,2026-05-25,2026-06-16
+T019,1.4.3,Structural substantiation: Review analysis,Engineering,Structural substantiation,12,0,100,2026-06-16,2026-07-02,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-16,2026-07-02,2026-06-16,2026-07-02
+T020,1.4.4,Structural substantiation: Resolve findings,Engineering,Structural substantiation,9,0,100,2026-07-02,2026-07-15,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-02,2026-07-15,2026-07-02,2026-07-15
+T021,1.4.5,Structural substantiation: Approval gate,Engineering,Structural substantiation,0,0,100,2026-07-15,2026-07-15,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-15,2026-07-15,2026-07-15,2026-07-15
+T022,1.5.1,Prototype integration: Define requirements,Engineering,Prototype integration,8,0,100,2026-07-20,2026-07-30,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-20,2026-07-30,2026-07-20,2026-07-30
+T023,1.5.2,Prototype integration: Develop design,Engineering,Prototype integration,14,0,100,2026-07-22,2026-08-11,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-22,2026-08-11,2026-07-22,2026-08-11
+T024,1.5.3,Prototype integration: Review analysis,Engineering,Prototype integration,10,0,100,2026-08-11,2026-08-25,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-11,2026-08-25,2026-08-11,2026-08-25
+T025,1.5.4,Prototype integration: Resolve findings,Engineering,Prototype integration,7,0,100,2026-08-25,2026-09-03,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-25,2026-09-03,2026-08-25,2026-09-03
+T026,1.5.5,Prototype integration: Approval gate,Engineering,Prototype integration,0,0,100,2026-09-03,2026-09-03,ASAP,,Fictional planning estimate,0.85,1.25,2026-09-03,2026-09-03,2026-09-03,2026-09-03
+T027,1.6.1,Design acceptance: Define requirements,Engineering,Design acceptance,9,0,100,2026-07-15,2026-07-28,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-15,2026-07-28,2026-07-15,2026-07-28
+T028,1.6.2,Design acceptance: Develop design,Engineering,Design acceptance,15,0,100,2026-07-17,2026-08-07,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-17,2026-08-07,2026-07-17,2026-08-07
+T029,1.6.3,Design acceptance: Review analysis,Engineering,Design acceptance,11,0,100,2026-08-07,2026-08-24,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-07,2026-08-24,2026-08-07,2026-08-24
+T030,1.6.4,Design acceptance: Resolve findings,Engineering,Design acceptance,8,0,100,2026-08-24,2026-09-03,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-24,2026-09-03,2026-08-24,2026-09-03
+T031,1.6.5,Design acceptance: Approval gate,Engineering,Design acceptance,0,0,100,2026-09-03,2026-09-03,ASAP,,Fictional planning estimate,0.85,1.25,2026-09-03,2026-09-03,2026-09-03,2026-09-03
+T032,2.1.1,Platform services: Specify interfaces,Software,Platform services,8,0,100,2026-05-29,2026-06-10,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-29,2026-06-10,2026-05-29,2026-06-10
+T033,2.1.2,Platform services: Implement module,Software,Platform services,14,0,100,2026-06-02,2026-06-22,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-02,2026-06-22,2026-06-02,2026-06-22
+T034,2.1.3,Platform services: Verify integration,Software,Platform services,10,0,100,2026-06-22,2026-07-06,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-22,2026-07-06,2026-06-22,2026-07-06
+T035,2.1.4,Platform services: Close defects,Software,Platform services,7,0,100,2026-07-06,2026-07-15,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-06,2026-07-15,2026-07-06,2026-07-15
+T036,2.1.5,Platform services: Release gate,Software,Platform services,0,0,100,2026-07-15,2026-07-15,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-15,2026-07-15,2026-07-15,2026-07-15
+T037,2.2.1,Telemetry collection: Specify interfaces,Software,Telemetry collection,9,0,100,2026-05-21,2026-06-03,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-21,2026-06-03,2026-05-21,2026-06-03
+T038,2.2.2,Telemetry collection: Implement module,Software,Telemetry collection,15,0,100,2026-05-25,2026-06-15,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-25,2026-06-15,2026-05-25,2026-06-15
+T039,2.2.3,Telemetry collection: Verify integration,Software,Telemetry collection,11,0,100,2026-06-15,2026-06-30,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-15,2026-06-30,2026-06-15,2026-06-30
+T040,2.2.4,Telemetry collection: Close defects,Software,Telemetry collection,8,0,100,2026-06-30,2026-07-10,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-30,2026-07-10,2026-06-30,2026-07-10
+T041,2.2.5,Telemetry collection: Release gate,Software,Telemetry collection,0,0,100,2026-07-10,2026-07-10,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-10,2026-07-10,2026-07-10,2026-07-10
+T042,2.3.1,Health monitoring: Specify interfaces,Software,Health monitoring,10,0,100,2026-07-15,2026-07-29,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-15,2026-07-29,2026-07-15,2026-07-29
+T043,2.3.2,Health monitoring: Implement module,Software,Health monitoring,16,0,100,2026-07-17,2026-08-10,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-17,2026-08-10,2026-07-17,2026-08-10
+T044,2.3.3,Health monitoring: Verify integration,Software,Health monitoring,12,0,100,2026-08-10,2026-08-26,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-10,2026-08-26,2026-08-10,2026-08-26
+T045,2.3.4,Health monitoring: Close defects,Software,Health monitoring,9,0,100,2026-08-26,2026-09-08,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-26,2026-09-08,2026-08-26,2026-09-08
+T046,2.3.5,Health monitoring: Release gate,Software,Health monitoring,0,0,100,2026-09-08,2026-09-08,ASAP,,Fictional planning estimate,0.85,1.25,2026-09-08,2026-09-08,2026-09-08,2026-09-08
+T047,2.4.1,Operator interface: Specify interfaces,Software,Operator interface,8,0,100,2026-07-10,2026-07-22,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-10,2026-07-22,2026-07-10,2026-07-22
+T048,2.4.2,Operator interface: Implement module,Software,Operator interface,14,0,100,2026-07-14,2026-08-03,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-14,2026-08-03,2026-07-14,2026-08-03
+T049,2.4.3,Operator interface: Verify integration,Software,Operator interface,10,0,100,2026-08-03,2026-08-17,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-03,2026-08-17,2026-08-03,2026-08-17
+T050,2.4.4,Operator interface: Close defects,Software,Operator interface,7,0,100,2026-08-17,2026-08-26,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-17,2026-08-26,2026-08-17,2026-08-26
+T051,2.4.5,Operator interface: Release gate,Software,Operator interface,0,0,100,2026-08-26,2026-08-26,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-26,2026-08-26,2026-08-26,2026-08-26
+T052,2.5.1,Integration build: Specify interfaces,Software,Integration build,9,1,88,2026-09-08,,ASAP,,Fictional planning estimate,0.85,1.25,2026-09-08,2026-09-21,2026-09-08,2026-09-21
+T053,2.5.2,Integration build: Implement module,Software,Integration build,15,9,40,2026-09-10,,ASAP,,Fictional planning estimate,0.85,1.25,2026-09-10,2026-10-01,2026-09-10,2026-10-01
+T054,2.5.3,Integration build: Verify integration,Software,Integration build,11,11,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-10-01,2026-10-16,2026-10-01,2026-10-16
+T055,2.5.4,Integration build: Close defects,Software,Integration build,8,8,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-10-16,2026-10-28,2026-10-16,2026-10-28
+T056,2.5.5,Integration build: Release gate,Software,Integration build,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-10-28,2026-10-28,2026-10-28,2026-10-28
+T057,2.6.1,Release qualification: Specify interfaces,Software,Release qualification,10,0,100,2026-08-26,2026-09-09,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-26,2026-09-09,2026-08-26,2026-09-09
+T058,2.6.2,Release qualification: Implement module,Software,Release qualification,40,25,37,2026-08-28,,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-28,2026-09-21,2026-08-28,2026-10-23
+T059,2.6.3,Release qualification: Verify integration,Software,Release qualification,12,12,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-09-21,2026-10-07,2026-10-23,2026-11-10
+T060,2.6.4,Release qualification: Close defects,Software,Release qualification,9,9,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-10-07,2026-10-20,2026-11-10,2026-11-23
+T061,2.6.5,Release qualification: Release gate,Software,Release qualification,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-10-20,2026-10-20,2026-11-23,2026-11-23
+T062,3.1.1,Supplier qualification: Define support needs,Logistics,Supplier qualification,9,0,100,2026-04-06,2026-04-17,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-06,2026-04-17,2026-04-06,2026-04-17
+T063,3.1.2,Supplier qualification: Prepare support package,Logistics,Supplier qualification,15,0,100,2026-04-08,2026-04-29,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-08,2026-04-29,2026-04-08,2026-04-29
+T064,3.1.3,Supplier qualification: Review readiness,Logistics,Supplier qualification,11,0,100,2026-04-29,2026-05-14,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-29,2026-05-14,2026-04-29,2026-05-14
+T065,3.1.4,Supplier qualification: Resolve shortages,Logistics,Supplier qualification,8,0,100,2026-05-14,2026-05-26,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-14,2026-05-26,2026-05-14,2026-05-26
+T066,3.1.5,Supplier qualification: Readiness gate,Logistics,Supplier qualification,0,0,100,2026-05-26,2026-05-26,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-26,2026-05-26,2026-05-26,2026-05-26
+T067,3.2.1,Long lead procurement: Define support needs,Logistics,Long lead procurement,10,0,100,2026-04-06,2026-04-20,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-06,2026-04-20,2026-04-06,2026-04-20
+T068,3.2.2,Long lead procurement: Prepare support package,Logistics,Long lead procurement,48,0,100,2026-04-08,2026-06-15,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-08,2026-04-30,2026-04-08,2026-06-15
+T069,3.2.3,Long lead procurement: Review readiness,Logistics,Long lead procurement,12,0,100,2026-06-15,2026-07-01,ASAP,,Fictional planning estimate,0.85,1.25,2026-04-30,2026-05-18,2026-06-15,2026-07-01
+T070,3.2.4,Long lead procurement: Resolve shortages,Logistics,Long lead procurement,9,0,100,2026-07-01,2026-07-14,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-18,2026-05-29,2026-07-01,2026-07-14
+T071,3.2.5,Long lead procurement: Readiness gate,Logistics,Long lead procurement,0,0,100,2026-07-14,2026-07-14,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-29,2026-05-29,2026-07-14,2026-07-14
+T072,3.3.1,Spares provisioning: Define support needs,Logistics,Spares provisioning,8,0,100,2026-05-26,2026-06-05,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-26,2026-06-05,2026-05-26,2026-06-05
+T073,3.3.2,Spares provisioning: Prepare support package,Logistics,Spares provisioning,14,0,100,2026-05-28,2026-06-17,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-28,2026-06-17,2026-05-28,2026-06-17
+T074,3.3.3,Spares provisioning: Review readiness,Logistics,Spares provisioning,10,0,100,2026-06-17,2026-07-01,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-17,2026-07-01,2026-06-17,2026-07-01
+T075,3.3.4,Spares provisioning: Resolve shortages,Logistics,Spares provisioning,7,0,100,2026-07-01,2026-07-10,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-01,2026-07-10,2026-07-01,2026-07-10
+T076,3.3.5,Spares provisioning: Readiness gate,Logistics,Spares provisioning,0,0,100,2026-07-10,2026-07-10,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-10,2026-07-10,2026-07-10,2026-07-10
+T077,3.4.1,Maintenance planning: Define support needs,Logistics,Maintenance planning,9,0,100,2026-07-14,2026-07-27,ASAP,,Fictional planning estimate,0.85,1.25,2026-05-29,2026-06-11,2026-07-14,2026-07-27
+T078,3.4.2,Maintenance planning: Prepare support package,Logistics,Maintenance planning,15,0,100,2026-07-16,2026-08-06,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-02,2026-06-23,2026-07-16,2026-08-06
+T079,3.4.3,Maintenance planning: Review readiness,Logistics,Maintenance planning,11,0,100,2026-08-06,2026-08-21,ASAP,,Fictional planning estimate,0.85,1.25,2026-06-23,2026-07-08,2026-08-06,2026-08-21
+T080,3.4.4,Maintenance planning: Resolve shortages,Logistics,Maintenance planning,8,0,100,2026-08-21,2026-09-02,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-08,2026-07-20,2026-08-21,2026-09-02
+T081,3.4.5,Maintenance planning: Readiness gate,Logistics,Maintenance planning,0,0,100,2026-09-02,2026-09-02,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-20,2026-07-20,2026-09-02,2026-09-02
+T082,3.5.1,Training development: Define support needs,Logistics,Training development,10,0,100,2026-07-10,2026-07-24,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-10,2026-07-24,2026-07-10,2026-07-24
+T083,3.5.2,Training development: Prepare support package,Logistics,Training development,16,0,100,2026-07-14,2026-08-05,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-14,2026-08-05,2026-07-14,2026-08-05
+T084,3.5.3,Training development: Review readiness,Logistics,Training development,12,0,100,2026-08-05,2026-08-21,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-05,2026-08-21,2026-08-05,2026-08-21
+T085,3.5.4,Training development: Resolve shortages,Logistics,Training development,9,0,100,2026-08-21,2026-09-03,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-21,2026-09-03,2026-08-21,2026-09-03
+T086,3.5.5,Training development: Readiness gate,Logistics,Training development,0,0,100,2026-09-03,2026-09-03,ASAP,,Fictional planning estimate,0.85,1.25,2026-09-03,2026-09-03,2026-09-03,2026-09-03
+T087,3.6.1,Support readiness: Define support needs,Logistics,Support readiness,8,0,100,2026-09-02,2026-09-14,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-20,2026-07-30,2026-09-02,2026-09-14
+T088,3.6.2,Support readiness: Prepare support package,Logistics,Support readiness,14,4,71,2026-09-04,,ASAP,,Fictional planning estimate,0.85,1.25,2026-07-22,2026-08-11,2026-09-04,2026-09-24
+T089,3.6.3,Support readiness: Review readiness,Logistics,Support readiness,10,10,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-11,2026-08-25,2026-09-24,2026-10-08
+T090,3.6.4,Support readiness: Resolve shortages,Logistics,Support readiness,7,7,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-08-25,2026-09-03,2026-10-08,2026-10-19
+T091,3.6.5,Support readiness: Readiness gate,Logistics,Support readiness,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-09-03,2026-09-03,2026-10-19,2026-10-19
+T092,4.1.1,Bench verification: Prepare procedure,Testing,Bench verification,10,10,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-10-28,2026-11-11,2026-11-23,2026-12-07
+T093,4.1.2,Bench verification: Execute evaluation,Testing,Bench verification,16,16,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-10-30,2026-11-23,2026-11-25,2026-12-17
+T094,4.1.3,Bench verification: Analyze results,Testing,Bench verification,12,12,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-11-23,2026-12-09,2026-12-17,2027-01-04
+T095,4.1.4,Bench verification: Close discrepancies,Testing,Bench verification,9,9,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-12-09,2026-12-22,2027-01-04,2027-01-15
+T096,4.1.5,Bench verification: Evidence gate,Testing,Bench verification,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-12-22,2026-12-22,2027-01-15,2027-01-15
+T097,4.2.1,Environmental qualification: Prepare procedure,Testing,Environmental qualification,8,8,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-10-28,2026-11-09,2026-11-23,2026-12-03
+T098,4.2.2,Environmental qualification: Execute evaluation,Testing,Environmental qualification,14,14,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-10-30,2026-11-19,2026-11-25,2026-12-15
+T099,4.2.3,Environmental qualification: Analyze results,Testing,Environmental qualification,10,10,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-11-19,2026-12-03,2026-12-15,2026-12-29
+T100,4.2.4,Environmental qualification: Close discrepancies,Testing,Environmental qualification,7,7,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-12-03,2026-12-14,2026-12-29,2027-01-07
+T101,4.2.5,Environmental qualification: Evidence gate,Testing,Environmental qualification,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-12-14,2026-12-14,2027-01-07,2027-01-07
+T102,4.3.1,Ground integration: Prepare procedure,Testing,Ground integration,9,9,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-12-22,2027-01-04,2027-01-15,2027-01-28
+T103,4.3.2,Ground integration: Execute evaluation,Testing,Ground integration,15,15,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-12-24,2027-01-14,2027-01-19,2027-02-09
+T104,4.3.3,Ground integration: Analyze results,Testing,Ground integration,11,11,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-01-14,2027-01-29,2027-02-09,2027-02-24
+T105,4.3.4,Ground integration: Close discrepancies,Testing,Ground integration,8,8,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-01-29,2027-02-10,2027-02-24,2027-03-08
+T106,4.3.5,Ground integration: Evidence gate,Testing,Ground integration,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-02-10,2027-02-10,2027-03-08,2027-03-08
+T107,4.4.1,Taxi readiness: Prepare procedure,Testing,Taxi readiness,10,10,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-12-14,2026-12-28,2027-01-07,2027-01-21
+T108,4.4.2,Taxi readiness: Execute evaluation,Testing,Taxi readiness,16,16,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2026-12-16,2027-01-07,2027-01-11,2027-02-02
+T109,4.4.3,Taxi readiness: Analyze results,Testing,Taxi readiness,12,12,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-01-07,2027-01-25,2027-02-02,2027-02-18
+T110,4.4.4,Taxi readiness: Close discrepancies,Testing,Taxi readiness,9,9,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-01-25,2027-02-05,2027-02-18,2027-03-03
+T111,4.4.5,Taxi readiness: Evidence gate,Testing,Taxi readiness,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-02-05,2027-02-05,2027-03-03,2027-03-03
+T112,4.5.1,Flight research campaign: Prepare procedure,Testing,Flight research campaign,8,8,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-02-10,2027-02-22,2027-03-08,2027-03-18
+T113,4.5.2,Flight research campaign: Execute evaluation,Testing,Flight research campaign,14,14,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-02-12,2027-03-04,2027-03-10,2027-03-30
+T114,4.5.3,Flight research campaign: Analyze results,Testing,Flight research campaign,10,10,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-04,2027-03-18,2027-03-30,2027-04-13
+T115,4.5.4,Flight research campaign: Close discrepancies,Testing,Flight research campaign,7,7,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-18,2027-03-29,2027-04-13,2027-04-22
+T116,4.5.5,Flight research campaign: Evidence gate,Testing,Flight research campaign,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-29,2027-03-29,2027-04-22,2027-04-22
+T117,4.6.1,Test evidence closure: Prepare procedure,Testing,Test evidence closure,9,9,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-02-05,2027-02-18,2027-03-03,2027-03-16
+T118,4.6.2,Test evidence closure: Execute evaluation,Testing,Test evidence closure,15,15,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-02-09,2027-03-02,2027-03-05,2027-03-26
+T119,4.6.3,Test evidence closure: Analyze results,Testing,Test evidence closure,11,11,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-02,2027-03-17,2027-03-26,2027-04-12
+T120,4.6.4,Test evidence closure: Close discrepancies,Testing,Test evidence closure,8,8,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-17,2027-03-29,2027-04-12,2027-04-22
+T121,4.6.5,Test evidence closure: Evidence gate,Testing,Test evidence closure,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-29,2027-03-29,2027-04-22,2027-04-22
+T122,5.1.1,Configuration freeze: Plan handover,Delivery,Configuration freeze,8,8,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-29,2027-04-08,2027-04-22,2027-05-04
+T123,5.1.2,Configuration freeze: Prepare deliverables,Delivery,Configuration freeze,14,14,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-31,2027-04-20,2027-04-26,2027-05-14
+T124,5.1.3,Configuration freeze: Verify acceptance,Delivery,Configuration freeze,10,10,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-04-20,2027-05-04,2027-05-14,2027-05-28
+T125,5.1.4,Configuration freeze: Close actions,Delivery,Configuration freeze,7,7,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-05-04,2027-05-13,2027-05-28,2027-06-08
+T126,5.1.5,Configuration freeze: Acceptance gate,Delivery,Configuration freeze,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-05-13,2027-05-13,2027-06-08,2027-06-08
+T127,5.2.1,Documentation release: Plan handover,Delivery,Documentation release,9,9,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-29,2027-04-09,2027-04-22,2027-05-05
+T128,5.2.2,Documentation release: Prepare deliverables,Delivery,Documentation release,15,15,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-03-31,2027-04-21,2027-04-26,2027-05-17
+T129,5.2.3,Documentation release: Verify acceptance,Delivery,Documentation release,11,11,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-04-21,2027-05-06,2027-05-17,2027-06-01
+T130,5.2.4,Documentation release: Close actions,Delivery,Documentation release,8,8,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-05-06,2027-05-18,2027-06-01,2027-06-11
+T131,5.2.5,Documentation release: Acceptance gate,Delivery,Documentation release,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-05-18,2027-05-18,2027-06-11,2027-06-11
+T132,5.3.1,Acceptance inspection: Plan handover,Delivery,Acceptance inspection,10,10,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-05-13,2027-05-27,2027-06-08,2027-06-22
+T133,5.3.2,Acceptance inspection: Prepare deliverables,Delivery,Acceptance inspection,16,16,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-05-17,2027-06-08,2027-06-10,2027-07-02
+T134,5.3.3,Acceptance inspection: Verify acceptance,Delivery,Acceptance inspection,12,12,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-06-08,2027-06-24,2027-07-02,2027-07-20
+T135,5.3.4,Acceptance inspection: Close actions,Delivery,Acceptance inspection,9,9,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-06-24,2027-07-07,2027-07-20,2027-08-02
+T136,5.3.5,Acceptance inspection: Acceptance gate,Delivery,Acceptance inspection,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-07-07,2027-07-07,2027-08-02,2027-08-02
+T137,5.4.1,Operator training: Plan handover,Delivery,Operator training,8,8,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-05-18,2027-05-28,2027-06-11,2027-06-23
+T138,5.4.2,Operator training: Prepare deliverables,Delivery,Operator training,14,14,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-05-20,2027-06-09,2027-06-15,2027-07-05
+T139,5.4.3,Operator training: Verify acceptance,Delivery,Operator training,10,10,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-06-09,2027-06-23,2027-07-05,2027-07-19
+T140,5.4.4,Operator training: Close actions,Delivery,Operator training,7,7,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-06-23,2027-07-02,2027-07-19,2027-07-28
+T141,5.4.5,Operator training: Acceptance gate,Delivery,Operator training,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-07-02,2027-07-02,2027-07-28,2027-07-28
+T142,5.5.1,Transfer preparation: Plan handover,Delivery,Transfer preparation,9,9,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-07-07,2027-07-20,2027-08-02,2027-08-13
+T143,5.5.2,Transfer preparation: Prepare deliverables,Delivery,Transfer preparation,15,15,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-07-09,2027-07-30,2027-08-04,2027-08-25
+T144,5.5.3,Transfer preparation: Verify acceptance,Delivery,Transfer preparation,11,11,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-07-30,2027-08-16,2027-08-25,2027-09-09
+T145,5.5.4,Transfer preparation: Close actions,Delivery,Transfer preparation,8,8,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-08-16,2027-08-26,2027-09-09,2027-09-21
+T146,5.5.5,Transfer preparation: Acceptance gate,Delivery,Transfer preparation,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-08-26,2027-08-26,2027-09-21,2027-09-21
+T147,5.6.1,Program closeout: Plan handover,Delivery,Program closeout,10,10,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-07-02,2027-07-16,2027-07-28,2027-08-11
+T148,5.6.2,Program closeout: Prepare deliverables,Delivery,Program closeout,16,16,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-07-06,2027-07-28,2027-07-30,2027-08-23
+T149,5.6.3,Program closeout: Verify acceptance,Delivery,Program closeout,12,12,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-07-28,2027-08-13,2027-08-23,2027-09-08
+T150,5.6.4,Program closeout: Close actions,Delivery,Program closeout,9,9,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-08-13,2027-08-26,2027-09-08,2027-09-21
+T151,5.6.5,Program closeout: Acceptance gate,Delivery,Program closeout,0,0,0,,,ASAP,,Fictional planning estimate,0.85,1.25,2027-08-26,2027-08-26,2027-09-21,2027-09-21
+T152,6,Final demonstrator acceptance,Program,Final acceptance,0,0,0,,,FNLT,2027-08-26,Fictional planning estimate,0.85,1.25,2027-08-26,2027-08-26,2027-09-21,2027-09-21

@@ -1,0 +1,13 @@
+{
+  "page_errors": [],
+  "filtered_software_critical_rows": 5,
+  "checks": [
+    "six navigation tabs",
+    "phase and critical filters",
+    "empty search",
+    "14 health rows",
+    "six resource pools",
+    "change visibility",
+    "mobile preview"
+  ]
+}

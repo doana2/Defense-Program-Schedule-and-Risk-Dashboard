@@ -1,0 +1,134 @@
+check,task_id,detail
+Critical,T052,"Based on network float, not deadline float"
+Negative float,T058,-18 workdays
+Critical,T058,"Based on network float, not deadline float"
+Negative float,T059,-18 workdays
+Critical,T059,"Based on network float, not deadline float"
+Negative float,T060,-18 workdays
+Critical,T060,"Based on network float, not deadline float"
+Negative float,T061,-18 workdays
+Critical,T061,"Based on network float, not deadline float"
+Missed milestone,T091,Baseline gate date has passed
+Negative float,T092,-18 workdays
+Critical,T092,"Based on network float, not deadline float"
+Negative float,T093,-18 workdays
+Critical,T093,"Based on network float, not deadline float"
+Negative float,T094,-18 workdays
+Critical,T094,"Based on network float, not deadline float"
+Negative float,T095,-18 workdays
+Critical,T095,"Based on network float, not deadline float"
+Negative float,T096,-18 workdays
+Critical,T096,"Based on network float, not deadline float"
+Negative float,T097,-18 workdays
+Critical,T097,"Based on network float, not deadline float"
+Negative float,T098,-18 workdays
+Critical,T098,"Based on network float, not deadline float"
+Negative float,T099,-18 workdays
+Critical,T099,"Based on network float, not deadline float"
+Negative float,T100,-18 workdays
+Critical,T100,"Based on network float, not deadline float"
+Negative float,T101,-18 workdays
+Critical,T101,"Based on network float, not deadline float"
+Negative float,T102,-18 workdays
+Critical,T102,"Based on network float, not deadline float"
+Negative float,T103,-18 workdays
+Critical,T103,"Based on network float, not deadline float"
+Negative float,T104,-18 workdays
+Critical,T104,"Based on network float, not deadline float"
+Negative float,T105,-18 workdays
+Critical,T105,"Based on network float, not deadline float"
+Negative float,T106,-18 workdays
+Critical,T106,"Based on network float, not deadline float"
+Negative float,T107,-18 workdays
+Critical,T107,"Based on network float, not deadline float"
+Negative float,T108,-18 workdays
+Critical,T108,"Based on network float, not deadline float"
+Negative float,T109,-18 workdays
+Critical,T109,"Based on network float, not deadline float"
+Negative float,T110,-18 workdays
+Critical,T110,"Based on network float, not deadline float"
+Negative float,T111,-18 workdays
+Critical,T111,"Based on network float, not deadline float"
+Negative float,T112,-18 workdays
+Critical,T112,"Based on network float, not deadline float"
+Negative float,T113,-18 workdays
+Critical,T113,"Based on network float, not deadline float"
+Negative float,T114,-18 workdays
+Critical,T114,"Based on network float, not deadline float"
+Negative float,T115,-18 workdays
+Critical,T115,"Based on network float, not deadline float"
+Negative float,T116,-18 workdays
+Critical,T116,"Based on network float, not deadline float"
+Negative float,T117,-18 workdays
+Critical,T117,"Based on network float, not deadline float"
+Negative float,T118,-18 workdays
+Critical,T118,"Based on network float, not deadline float"
+Negative float,T119,-18 workdays
+Critical,T119,"Based on network float, not deadline float"
+Negative float,T120,-18 workdays
+Critical,T120,"Based on network float, not deadline float"
+Negative float,T121,-18 workdays
+Critical,T121,"Based on network float, not deadline float"
+Negative float,T122,-18 workdays
+Critical,T122,"Based on network float, not deadline float"
+Negative float,T123,-18 workdays
+Critical,T123,"Based on network float, not deadline float"
+Negative float,T124,-18 workdays
+Critical,T124,"Based on network float, not deadline float"
+Negative float,T125,-18 workdays
+Critical,T125,"Based on network float, not deadline float"
+Negative float,T126,-18 workdays
+Critical,T126,"Based on network float, not deadline float"
+Negative float,T127,-18 workdays
+Critical,T127,"Based on network float, not deadline float"
+Negative float,T128,-18 workdays
+Critical,T128,"Based on network float, not deadline float"
+Negative float,T129,-18 workdays
+Critical,T129,"Based on network float, not deadline float"
+Negative float,T130,-18 workdays
+Critical,T130,"Based on network float, not deadline float"
+Negative float,T131,-18 workdays
+Critical,T131,"Based on network float, not deadline float"
+Negative float,T132,-18 workdays
+Critical,T132,"Based on network float, not deadline float"
+Negative float,T133,-18 workdays
+Critical,T133,"Based on network float, not deadline float"
+Negative float,T134,-18 workdays
+Critical,T134,"Based on network float, not deadline float"
+Negative float,T135,-18 workdays
+Critical,T135,"Based on network float, not deadline float"
+Negative float,T136,-18 workdays
+Critical,T136,"Based on network float, not deadline float"
+Negative float,T137,-18 workdays
+Critical,T137,"Based on network float, not deadline float"
+Negative float,T138,-18 workdays
+Critical,T138,"Based on network float, not deadline float"
+Negative float,T139,-18 workdays
+Critical,T139,"Based on network float, not deadline float"
+Negative float,T140,-18 workdays
+Critical,T140,"Based on network float, not deadline float"
+Negative float,T141,-18 workdays
+Critical,T141,"Based on network float, not deadline float"
+Negative float,T142,-18 workdays
+Critical,T142,"Based on network float, not deadline float"
+Negative float,T143,-18 workdays
+Critical,T143,"Based on network float, not deadline float"
+Negative float,T144,-18 workdays
+Critical,T144,"Based on network float, not deadline float"
+Negative float,T145,-18 workdays
+Critical,T145,"Based on network float, not deadline float"
+Negative float,T146,-18 workdays
+Critical,T146,"Based on network float, not deadline float"
+Negative float,T147,-18 workdays
+Critical,T147,"Based on network float, not deadline float"
+Negative float,T148,-18 workdays
+Critical,T148,"Based on network float, not deadline float"
+Negative float,T149,-18 workdays
+Critical,T149,"Based on network float, not deadline float"
+Negative float,T150,-18 workdays
+Critical,T150,"Based on network float, not deadline float"
+Negative float,T151,-18 workdays
+Critical,T151,"Based on network float, not deadline float"
+Hard constraint,T152,FNLT
+Negative float,T152,-18 workdays
+Critical,T152,"Based on network float, not deadline float"

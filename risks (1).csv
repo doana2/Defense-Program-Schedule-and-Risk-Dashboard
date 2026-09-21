@@ -1,0 +1,11 @@
+risk_id,title,probability,impact_low,impact_mode,impact_high,task_ids,owner,mitigation,status,review_date
+RISK-01,Avionics interface rework,0.35,8,16,30,T047,Software lead,Freeze interfaces and hold weekly integration reviews,Open,2026-09-18
+RISK-02,Environmental retest,0.3,10,20,35,T097,Test lead,Run prequalification screening before chamber booking,Open,2026-09-18
+RISK-03,Instrument delivery delay,0.25,8,15,25,T092,Supply lead,Qualify an alternate supplier,Open,2026-09-18
+RISK-04,Ground test discrepancy,0.4,5,12,22,T102,Test lead,Add an early dry run,Open,2026-09-18
+RISK-05,Review team congestion,0.4,3,8,15,T027,Quality lead,Reserve named reviewers,Open,2026-09-18
+RISK-06,Training material revision,0.2,4,8,16,T137,Logistics lead,Pilot the training package,Open,2026-09-18
+RISK-07,Acceptance documentation gap,0.3,3,7,12,T132,Delivery lead,Perform an evidence completeness review,Open,2026-09-18
+RISK-08,Integration build regression,0.35,5,12,24,T052,Software lead,Automate regression tests,Open,2026-09-18
+RISK-09,Flight research weather window,0.3,5,10,20,T112,Test lead,Reserve contingency windows,Open,2026-09-18
+RISK-10,Configuration discrepancy,0.25,3,6,12,T122,Configuration lead,Audit as-built records early,Open,2026-09-18

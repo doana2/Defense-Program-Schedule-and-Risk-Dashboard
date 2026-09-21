@@ -1,0 +1,15 @@
+point,indicator,numerator,denominator,value,threshold,direction,status,basis
+1,Missing logic,0.0,58.0,0.0,0.05,max,PASS,Incomplete non-milestone activities
+2,Leads,0.0,117.0,0.0,0.0,max,PASS,Relationships into incomplete tasks
+3,Lags,15.0,117.0,0.1282051282051282,0.05,max,REVIEW,Relationships into incomplete tasks
+4,Finish-to-start relationships,87.0,117.0,0.7435897435897436,0.9,min,REVIEW,Relationships into incomplete tasks
+5,Hard constraints,0.0,58.0,0.0,0.05,max,PASS,Incomplete non-milestone activities
+6,High float,3.0,58.0,0.05172413793103448,0.05,max,REVIEW,Incomplete non-milestone activities
+7,Negative float,51.0,58.0,0.8793103448275862,0.0,max,REVIEW,Incomplete non-milestone activities
+8,High duration,0.0,58.0,0.0,0.05,max,PASS,Incomplete non-milestone activities
+9,Invalid dates,0.0,58.0,0.0,0.0,max,PASS,Incomplete non-milestone activities
+10,Missing resources,0.0,58.0,0.0,0.0,max,PASS,Incomplete non-milestone activities
+11,Missed baseline tasks,11.0,65.0,0.16923076923076924,0.05,max,REVIEW,"Detail activities due by status, includes late completions"
+12,Critical path test,600.0,600.0,1.0,1.0,min,PASS,Perturbed T058 by 600 workdays; exact 600-day response required
+13,Critical path length index,244.0,262.0,0.9312977099236641,0.95,min,REVIEW,(Remaining calendar span + final deadline float) / remaining span; simplified CPLI
+14,Baseline execution index,62.0,65.0,0.9538461538461539,0.95,min,PASS,All completed detail activities / detail activities baseline-due by status
